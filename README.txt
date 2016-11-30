@@ -14,7 +14,7 @@ Vel-IO 3D, version 1.1
 Requisites:
 ESRI ArcGIS 10.3+
 Python 2.7.11
-Important Legal Notice: Albeit Authors believe the information to be reliable, mechanical or human errors remain possible. The Authors, thus, does not guarantee the accuracy or completeness of the information provided with Vel-IO 3D tool.
+Important Legal Notice: Albeit Authors believe the information to be reliable, mechanical or human errors remain possible. The Authors, thus, do not guarantee the accuracy or completeness of the information provided with Vel-IO 3D tool.
 
 Neither the Authors nor any of the sources of information shall be liable for errors or omissions, or for the use of this information, including any liability or expense incurred, claimed to have resulted from the use of the Vel-IO 3D tool.
 
